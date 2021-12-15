@@ -28,6 +28,8 @@ def print_model(entry: Entry, depth: int = 0, is_last_folder: bool = False, prin
         for i in range(depth):
             if print_pipes[i]:
                 line += folder_pipe
+            else:
+                line += " "
             line += indentation
 
         if is_last_folder:
