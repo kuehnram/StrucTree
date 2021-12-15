@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "movie": {
+        "name": "Awesome Movie",
+        "year": 2010
+      }
+    },
+    {
+      "movie": {
+        "name": "Awesome Movie 2",
+        "year": 2011
+      }
+    }
+  ]
+}
