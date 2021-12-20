@@ -8,9 +8,9 @@ tbd
 This tool is great to get an overview of the structure of your XML or JSON files. 
 It is not only helpful for programming and further processing of the files but also for documentation. For example, its output can be included in LaTeX listing environments:
 ```
-\usepackage{listings}
+\usepackage{pmboxdraw}
 
-\begin{lstlisting}
+\begin{verbatim}
 ./test.{json/xml}
    └─movies
       ├─movie
@@ -19,6 +19,6 @@ It is not only helpful for programming and further processing of the files but a
       └─movie
          ├─name
          └─year
-\end{lstlisting}
+\end{verbatim}
 
 ```
