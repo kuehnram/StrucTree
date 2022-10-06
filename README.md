@@ -21,8 +21,11 @@ It is not only helpful for programming and further processing of the files but a
             ├─name
             └─year
    \end{verbatim}
-   \caption{XML structure of German Wiktionary.}
+   \caption{XML structure of a file.}
    \label{verbatim:xmlstructure}
 \end{figure}
 
 ```
+This is how it looks in a two column Latex file:
+
+![grafik](https://user-images.githubusercontent.com/4929710/194358701-55bef675-58c6-4f1f-823f-441ecc7307f3.png)
